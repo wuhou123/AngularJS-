@@ -1,3 +1,4 @@
+#正式入坑vueJs，资源不再更新
 #AngularJS instruction<sub>编者2016-12-22</sub>
 
 ###一、markdown基本语法
